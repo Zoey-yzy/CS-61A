@@ -1,5 +1,5 @@
-# read me
-Welcome!
+# Readme
+Welcome!\n
 This repoitory is a recording of self learning of CS-61A including reference code for homework, labs, and projects.
 Course page: https://cs61a.org/ 
 it is still updating each seemester.
