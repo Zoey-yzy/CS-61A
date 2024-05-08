@@ -1,7 +1,7 @@
 # Readme
 Welcome!\
 This repoitory is a recording of self learning of CS-61A including reference code for homework, labs, and projects.\
-Course page: https://cs61a.org/ \
+Course page: https://cs61a.org. \
 it is still updating each seemester.\
 Thanks to @PKUFlyingPig at github whose work inspire me to record my answer to the homework. \
 While I check my homework with answers from @PKUFlyingPig,\
